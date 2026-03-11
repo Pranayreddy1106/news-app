@@ -38,6 +38,8 @@ A modern, production-ready web application for tracking and managing global news
 *   **Detailed Modals**: Immersive reading experience without leaving the page.
 *   **Professional Dashboard**: Access saved summaries in an organized list view.
 *   **Dark/Light theme toggle** for eye-comfort in all environments.
+  ![Uploading image.png…]()
+
 
 ---
 
